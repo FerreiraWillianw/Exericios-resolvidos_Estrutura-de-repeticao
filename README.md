@@ -282,3 +282,4 @@ Imprima no final a soma da série.
 
 #### Retirada do Site: https://wiki.python.org.br/EstruturaDeRepeticao
 
+### <font color="#00FF00">Resolução #</font>
